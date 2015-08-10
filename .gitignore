@@ -4,3 +4,9 @@
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
+*.DS_Store
+*_*.DS_Store
+*.swp
+*.swo
+._*.php
+*.tmp
